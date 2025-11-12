@@ -30,5 +30,5 @@ It provides secure login/signup, JWT-based authentication, and **role-based dash
 
 ---
 
-## 🧩 Folder Structure
+
 
